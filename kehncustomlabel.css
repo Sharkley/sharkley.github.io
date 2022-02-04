@@ -58,7 +58,7 @@ body {
         display: inline-block; }
       .label .price sup.cents {
         font-weight: 400;
-        font-size: .55em;
+        font-size: .45em;
         margin: -8px 0 0 3px;
         vertical-align: super; }
   .label .description {
