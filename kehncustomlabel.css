@@ -57,10 +57,11 @@ body {
         vertical-align: top;
         display: inline-block; }
       .label .price sup.cents {
-        font-weight: 400;
+        font-weight: 600;
         font-size: .45em;
         margin: -8px 0 0 3px;
-        vertical-align: super; }
+        vertical-align: super;
+        border-bottom: 2px solid #000; }
   .label .description {
     font-size: 9pt;
     line-height: 1.2;
