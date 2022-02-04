@@ -32,8 +32,8 @@ body {
     position: relative;
     padding: 5px 5px 2px;
     border-bottom: 2px solid #000;
-    background-color: #000;
-    color: #fff; }
+    background-color: #fff;
+    color: #000; }
   .label .price {
     float: left;
     margin-right: .1in; }
